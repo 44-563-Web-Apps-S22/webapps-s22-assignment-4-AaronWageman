@@ -1,0 +1,36 @@
+
+.speech{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20;
+    color:black;
+}
+
+.direction{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20;
+    color:black;
+    background-color: lightblue;
+}
+.direction:hover{
+    background-color: yellow;
+    color:crimson;
+}
+
+#name{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20;
+    color:black;
+}
+
+#orgon{
+    color:aqua;
+}
+#elmire{
+    color:red;
+}
+#dorine{
+    color:green;
+}
+#cleante{
+    color:orange;
+}

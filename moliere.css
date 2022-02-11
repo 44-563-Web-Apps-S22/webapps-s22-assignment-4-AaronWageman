@@ -1,4 +1,22 @@
+table{
+    border: solid 3px black;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 3em 3em 3em 3em;
+}
 
+th{
+    border: solid 1px;
+    background-color: bisque;
+    padding:10px;
+}
+tr:nth-child(even){
+    background-color: cornflowerblue;
+}
+td{
+    border:solid 1px;
+    padding:10px;
+}
 .speech{
     font-family:'Times New Roman', Times, serif;
     font-size:20;

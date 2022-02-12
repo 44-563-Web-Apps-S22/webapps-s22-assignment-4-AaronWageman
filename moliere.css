@@ -34,10 +34,14 @@ td{
     color:crimson;
 }
 
-#name{
+.name{
     font-family:'Times New Roman', Times, serif;
     font-size:20;
     color:black;
+}
+.name:hover{
+    text-shadow: 5px 5px 8px blue;
+    border: dashed 3px yellow;
 }
 
 #orgon{
